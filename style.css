@@ -1,0 +1,165 @@
+.main-section{
+    font-family:arial;
+    margin:10px 10px 10px 270px;
+    
+  }
+  
+  
+  #mateo-title{
+    margin:10px 10px 10px 10px;
+    font-size:25px;
+  }
+  
+  @media (max-width:950px) {
+    #mateo-title{
+      font-size:18px;
+    }
+  }
+  
+  ul{
+    margin:auto 10px 10px 10px;
+    font-size:16px;
+  }
+  
+  @media (max-width:950px) {
+    ul{
+      font-size:13px;
+    }
+  }
+  
+  
+  #marcos-title{
+    margin:10px 10px 10px 10px;
+    font-size:25px;
+  }
+  
+  @media (max-width:950px) {
+    #marcos-title{
+      font-size:18px;
+    }
+  }
+  
+  #lucas-title{
+    margin:10px 10px 10px 10px;
+    font-size:25px;
+  }
+  
+  @media (max-width:950px) {
+    #lucas-title{
+      font-size:18px;
+    }
+  }
+  
+  #juan-title{
+    margin:10px 10px 10px 10px;
+    font-size:25px;
+  }
+  
+  @media (max-width:950px) {
+    #juan-title{
+      font-size:18px;
+    }
+  }
+  
+  p{
+    text-align:justify;
+    font-size:15px;
+    padding:auto;
+    margin:auto 10px 10px 20px;
+  }
+  
+  @media (max-width:950px) {
+    p{
+      font-size:13px;
+    }
+  }
+  
+  #hechos-title{
+    margin:10px 10px 10px 10px;
+    font-size:25px;
+  }
+  
+  @media (max-width:950px) {
+    #hechos-title{
+      font-size:18px;
+    }
+  }
+  
+  #romanos-title{
+    margin:10px 10px 10px 10px;
+    font-size:25px;
+  }
+  
+  @media (max-width:950px) {
+    #romanos-title{
+      font-size:18px;
+    }
+  }
+  
+  #codigos-title{
+     margin:10px 10px 10px 10px;
+    font-size:25px;
+  }
+  
+  @media (max-width:950px) {
+    #codigos-title{
+      font-size:18px;
+    }
+  }
+  
+  code{
+     text-align:left;
+    font-size:15px;
+    margin:10px 180px 10px 20px;
+  }
+  
+  #fondo-code{
+    background:linear-gradient(-90deg, #109dfa,#ececec);
+    margin:10px 10px 10px 10px;
+    border-radius:6px;
+    width:360px;
+  }
+  
+  #nuevo-testamento{
+    font-size:30px;
+    font-family:arial;
+    text-align:center;
+  }
+  
+  @media (max-width:950px) {
+    #nuevo-testamento{
+      font-size:22px;
+    }
+  }
+  
+  #navbar{
+    display:grid;
+    text-align:left;
+   font-family:arial;
+    position:fixed;
+    height:calc(97%);
+    background: linear-gradient(-90deg, #109dfa,#ececec);
+    border-radius:6px;
+  }
+  
+  .nav-link{
+  text-decoration:none;
+  }
+  
+  div{
+    text-align:left;
+    margin:10px auto;
+  }
+  
+  a{
+    color:black;
+    font-size:18px;
+  }
+  
+  @media (max-width:950px) {
+    a{
+      font-size:16px;
+    }
+  }
+  
+  
